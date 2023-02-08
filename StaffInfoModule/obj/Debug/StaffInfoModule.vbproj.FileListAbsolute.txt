@@ -1,0 +1,15 @@
+C:\Users\yen\source\repos\StaffInfoModule\StaffInfoModule\bin\Debug\StaffInfoModule.exe.config
+C:\Users\yen\source\repos\StaffInfoModule\StaffInfoModule\bin\Debug\StaffInfoModule.exe
+C:\Users\yen\source\repos\StaffInfoModule\StaffInfoModule\bin\Debug\StaffInfoModule.pdb
+C:\Users\yen\source\repos\StaffInfoModule\StaffInfoModule\bin\Debug\StaffInfoModule.xml
+C:\Users\yen\source\repos\StaffInfoModule\StaffInfoModule\obj\Debug\StaffInfoModule.vbprojAssemblyReference.cache
+C:\Users\yen\source\repos\StaffInfoModule\StaffInfoModule\obj\Debug\StaffInfoModule.Resources.resources
+C:\Users\yen\source\repos\StaffInfoModule\StaffInfoModule\obj\Debug\StaffInfoModule.vbproj.GenerateResource.cache
+C:\Users\yen\source\repos\StaffInfoModule\StaffInfoModule\obj\Debug\StaffInfoModule.vbproj.CoreCompileInputs.cache
+C:\Users\yen\source\repos\StaffInfoModule\StaffInfoModule\obj\Debug\StaffInfoModule.exe
+C:\Users\yen\source\repos\StaffInfoModule\StaffInfoModule\obj\Debug\StaffInfoModule.xml
+C:\Users\yen\source\repos\StaffInfoModule\StaffInfoModule\obj\Debug\StaffInfoModule.pdb
+C:\Users\yen\source\repos\StaffInfoModule\StaffInfoModule\obj\Debug\StaffInfoModule.View.resources
+C:\Users\yen\source\repos\StaffInfoModule\StaffInfoModule\obj\Debug\StaffInfoModule.frmAdd.resources
+C:\Users\yen\source\repos\StaffInfoModule\StaffInfoModule\obj\Debug\StaffInfoModule.frmDetails.resources
+C:\Users\yen\source\repos\StaffInfoModule\StaffInfoModule\obj\Debug\StaffInfoModule.Picture.resources
